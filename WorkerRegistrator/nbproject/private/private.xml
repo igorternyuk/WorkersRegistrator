@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/model/DAO.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/view/ErrorServlet.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/model/IO.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/controller/LogOutServlet.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/view/WorkerListServlet.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/web/eliminarTrabajador.jsp</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/model/Worker.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/model/User.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/view/MenuServlet.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/web/editarInfoTrabajador.jsp</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/controller/WorkerRegisterServlet.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/controller/ValidateServlet.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/model/Error.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/controller/InitListener.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/web/registrarTrabajador.jsp</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/controller/WorkerChooseServlet.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/controller/WorkerEditInfoServlet.java</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/web/index.jsp</file>
+            <file>file:/home/igor/prj/java/clase_5/clase_5/src/java/controller/WorkerDeleteServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
